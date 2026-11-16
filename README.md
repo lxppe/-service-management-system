@@ -1,40 +1,40 @@
-# Sistema de Gestão de Serviços
+# Service Management System
 
-## 📌 Sobre
-Sistema desenvolvido para gerenciar ordens de serviço, clientes e status.
-
----
-
-## 🚀 Funcionalidades
-- Cadastro de clientes
-- Criação de ordens de serviço
-- Visualização de detalhes
-- Atualização de status
+## 📌 About
+System developed to manage service orders, clients, and statuses.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Features
+- Customer registration
+- Creation of service orders
+- Viewing of details
+- Status updates
+
+---
+
+## 🛠️ Technologies
 - Python
 - CustomTkinter
 - SQLite
 
 ---
 
-## 📦 Instalação
+## 📦 Installation
 
 ```bash
 git clone https://github.com/lxppe/service-management-system
 cd service-management-system
 pip install -r requirements.txt
 
-▶️ Como rodar
+▶️ how to run
 python main.py
 ```
 ## 📷 Preview
 
-![Tela inicial](prints/main.png)
+![Home screenl](prints/main.png)
 
-![Tela de cadastro](prints/cadastro.png)
+![registration screen](prints/cadastro.png)
 
-![Tela de detalhes](prints/detalhes.png)
+![details screen](prints/detalhes.png)
 
